@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "C. Kent Strauss"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
