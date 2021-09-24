@@ -19,7 +19,7 @@ In progress.
 
 In progress.
 
-**Knowing Me, Knowing You: An Experiment on Mutual Payoff Information and Strategic Uncertainty** (with Hazem Alshaikmubarak, David Hales, Maria Kogelnik and Molly Schwarz) <a style='color: black;' href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915018> SSRN </a> [Under Review]
+**Knowing Me, Knowing You: An Experiment on Mutual Payoff Information and Strategic Uncertainty** (with Hazem Alshaikmubarak, David Hales, Maria Kogelnik and Molly Schwarz) [Under Review]
 
 Publications
 ======
