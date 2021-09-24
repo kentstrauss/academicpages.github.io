@@ -19,10 +19,7 @@ In progress.
 
 In progress.
 
-**Knowing Me, Knowing You: An Experiment on Mutual Payoff Information and Strategic Uncertainty** (with Hazem Alshaikmubarak, David Hales, Maria Kogelnik and Molly Schwarz)
-
-We use a laboratory experiment to study how mutual payoff information affects play in strategic settings. Subjects play the Prisoner’s Dilemma or Stag Hunt game against randomly rematched opponents under two information treatments. In our partial-information treatment subjects are shown only their own payoffs, while in our full-information treatment they are shown both their own and their opponent’s payoffs. In both treatments, they receive feedback on their opponent’s action after each round. We find that mutual payoff information has a substantial effect on the equilibrium reached and convergence in both games. Using a belief learning model and simulation of play, we provide evidence that this effect is driven not only by initial play, but also by the way subjects learn. We propose that
-strategic uncertainty is a probable channel driving these effects.
+**Knowing Me, Knowing You: An Experiment on Mutual Payoff Information and Strategic Uncertainty** (with Hazem Alshaikmubarak, David Hales, Maria Kogelnik and Molly Schwarz) <a style='color: black;' href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915018> SSRN </a> [Under Review]
 
 Publications
 ======
