@@ -39,3 +39,7 @@ Journal Articles
 
 Technical Reports
 ======
+
+1. Holmes, L., Strauss, C. K., de Vos, K., Bonzon, K. (2014). Towards investment in sustainable fisheries: A framework for financing the transition. Environmental Defense Fund and The Prince of Wales’s International Sustainability Unit.
+
+1. Bonzon, K., McIlwain, K., Strauss, C. K. and Van Leuvan, T. (2013). Catch Share Design Manual, Volume 1: A Guide for Managers and Fishermen (2nd ed.). Environmental Defense Fund.
