@@ -16,5 +16,6 @@ Teaching Assistant Experience
 * Econ 112a. European Economic History (Spring 2019)
 * Econ 10a. Intermediate Microeconomic Theory (Fall 2017, Winter 2018, Spring 2018)
 
-Teaching Evaluations
-======
+_teaching evaluations available upon request_
+
+
